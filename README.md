@@ -1,2 +1,9 @@
 # comp260-Evaluation
 ##Weekly Reports
+
+###Week One
+
+The firs week back was good, I found that I had passed my previous semester. Though I doubted that I would this has provided me with the confidence and determination to work through and succeed in the second semester. We have been introduced to this semesters tasks, these include the creation of a server and accompanying game client, further work on the main project along with a business plan, and finally an AI project. I feel confident in these areas the only section that could worry me is the AI, not for the difficulty but choosing a task to complete. As our AI in our game is being handled by someone, perhaps I can work something into the game that counts as AI enough to work out. Work continues to go well on VoT, we will be deciding on a final name soon.
+
+###Week Two
+As per usual the second week brings in the realisation of the amount of work ahead of us, luckily Mike has put the class into a group for the server task which will allow the class to work together as a team. This brings a feeling of connection and community, which will help everyone keep on top of the project and not allow it to fall behind, like most of our projects did last term. We have decided on the details of our server and client, and have begun work on the server. We met up on Thursday and Friday to try to make some progress, unfortunately it does seem more complex than first assumed, through we may just overcomplicating things due to lack of understanding of how java works. Hopefully Mike can clear this up next time we are in class. The AI module still hasn't been decided on for myself, though I only have a day to decide I'm sure I will come up with something. On the note for VoT there is not much to repost other than its going well, and the business plan through needing refinement is still good, Though I do need to create a project pitch and company pitch that can be used whenever introducing people to out work.
